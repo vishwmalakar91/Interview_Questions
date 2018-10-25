@@ -12,3 +12,4 @@ public class Array_Qu {
 		System.out.println(length_of_array);
 	}
 }
+

@@ -18,14 +18,7 @@ public class Strings_Qu {
 		System.out.println(length_of_string);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 	public void matched(String test)
 	{
 
