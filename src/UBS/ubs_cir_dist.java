@@ -1,11 +1,11 @@
-package Jobs;
+package UBS;
 
-public class ubs {
+public class ubs_cir_dist {
 
 	public static void main(String[] args) {
 	
-		ubs D=new ubs();
-		System.out.println(D.Max_Distance("AA?CCC"));
+		ubs_cir_dist D=new ubs_cir_dist();
+		System.out.println(D.Max_Distance("AA?ACAACCC"));
 
 		
 	}

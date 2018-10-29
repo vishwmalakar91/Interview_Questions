@@ -1,8 +1,8 @@
-package Jobs;
+package UBS;
 
 //program to count number of 9's in 59 to 99 and print it's sum.
 
-public class UBS_pract 
+public class UBS_count_numbers 
 {
 	
 	public static void main(String[] args) 

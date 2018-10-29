@@ -1,4 +1,4 @@
-package Jobs;
+package Vuclip;
 
 public class vuclip {
 	public static void main(String[] args) {

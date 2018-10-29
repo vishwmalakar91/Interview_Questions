@@ -1,5 +1,5 @@
-package Jobs;
-class ubs_int_start
+package UBS;
+class ubs_int_dimond__stars
 {
 	public static void main(String[] args)
 	{

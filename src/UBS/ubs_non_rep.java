@@ -1,9 +1,8 @@
-package Jobs;
+package UBS;
 
-//Java program to find first non-repeating 
-//element. 
+//Java program to find first non-repeating element. 
 
-public class ubs_int_rep {
+public class ubs_non_rep {
 
 	static int firstNonRepeating(int arr[], int n) 
 	{ 
@@ -19,7 +18,6 @@ public class ubs_int_rep {
 		return -1; 
 	} 
 	
-	//Driver code 
 	public static void main (String[] args) 
 	{ 
 		
@@ -30,4 +28,3 @@ public class ubs_int_rep {
 	} 
 } 
 
-//This code is contributed by Anant Agarwal. 
