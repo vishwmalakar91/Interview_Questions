@@ -4,8 +4,7 @@ class Max_sum_array {
 
  // Find the maximum possible sum in arr[]  
  // such that arr[m] is part of it 
- static int maxCrossingSum(int arr[], int l, 
-                             int m, int h) 
+ static int maxCrossingSum(int arr[], int l, int m, int h) 
  { 
      // Include elements on left of mid. 
      int sum = 0; 
@@ -34,8 +33,7 @@ class Max_sum_array {
 
  // Returns sum of maxium sum subarray  
  // in aa[l..h] 
- static int maxSubArraySum(int arr[], int l,  
-                                   int h) 
+ static int maxSubArraySum(int arr[], int l, int h) 
  { 
  // Base Case: Only one element 
  if (l == h) 
@@ -50,9 +48,7 @@ class Max_sum_array {
  b) Maximum subarray sum in right half 
  c) Maximum subarray sum such that the  
  subarray crosses the midpoint */
- return Math.max(Math.max(maxSubArraySum(arr, l, m), 
-                 maxSubArraySum(arr, m+1, h)), 
-                 maxCrossingSum(arr, l, m, h)); 
+ return Math.max(Math.max(maxSubArraySum(arr, l, m),  maxSubArraySum(arr, m+1, h)),  maxCrossingSum(arr, l, m, h)); 
  } 
 
  /* Driver program to test maxSubArraySum */
@@ -62,8 +58,7 @@ class Max_sum_array {
  int n = arr.length; 
  int max_sum = maxSubArraySum(arr, 0, n-1); 
    
- System.out.println("Maximum contiguous sum is "+ 
-                                      max_sum); 
+ System.out.println("Maximum contiguous sum is "+  max_sum); 
  } 
 } 
 //This code is contributed by Prerna Saini
