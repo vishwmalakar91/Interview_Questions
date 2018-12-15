@@ -17,7 +17,7 @@ class missing_numbers
 	/* program to test above function */
 	public static void main(String args[]) 
 	{ 
-		int a[] = {1,2,4,5,6,8,5}; 
+		int a[] = {1,2,4,5,6,7,8}; 
 		int miss = getMissingNo(a,7); 
 		System.out.println(miss); 
 	} 
