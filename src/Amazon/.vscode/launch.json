@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - first_rep_char",
+            "request": "launch",
+            "mainClass": "Amazon.first_rep_char"
+        }
+    ]
+}
