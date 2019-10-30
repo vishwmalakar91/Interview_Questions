@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe9d0ca-19a1-4ce1-9913-ac8fd5d60a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Veritas/secondLArgest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -90,6 +90,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -154,8 +155,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.first_rep_char" />
       <item itemvalue="Application.Median" />
+      <item itemvalue="Application.first_rep_char" />
       <item itemvalue="Application.secondLArgest" />
     </list>
     <recent_temporary>
@@ -197,7 +198,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16641453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
