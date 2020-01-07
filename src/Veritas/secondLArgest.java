@@ -32,7 +32,6 @@ public class secondLArgest {
         int Dataset[] = {45, 4, 7, 4, 44, 8, 9, 56, 33, 46};
         System.out.println("Array is : "+Arrays.toString(Dataset));
         System.out.println("Second largest is " + getSecondLargest(Dataset));
-        Assert.
 
     }
 }
