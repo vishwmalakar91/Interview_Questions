@@ -1,12 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dbe9d0ca-19a1-4ce1-9913-ac8fd5d60a8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Veritas/secondLArgest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veritas/secondLArgest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Abstraction_Ex/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Abstraction_Ex/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Abstraction_Ex/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Abstraction_Ex/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Abstraction_Ex/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Abstraction_Ex/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Abstraction_Ex/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Abstraction_Ex/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Barclays/Min_amount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Barclays/Min_amount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/AXIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/AXIS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Array_Qu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Array_Qu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Data_types.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Data_types.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/DisplayOverloading3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/DisplayOverloading3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Fibon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Fibon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/ICICI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/ICICI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/MultD_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/MultD_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Overiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Overiding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Overloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Overloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/SBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Starts.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Starts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Jobs/Strings_Qu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Jobs/Strings_Qu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/DS_design.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/DS_design.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Knight_moves.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Knight_moves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Max_sum_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Max_sum_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Num_to_word.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Num_to_word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Pair_with_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Pair_with_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Rem_dup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Rem_dup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Rep_chars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Rep_chars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Rev_words_in_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Rev_words_in_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Sub_String_Vishwa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Sub_String_Vishwa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/Sub_string_present.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/Sub_string_present.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/diff_of_sum_diag.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/diff_of_sum_diag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/first_non_rep_char.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/first_non_rep_char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/max_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/max_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/max_of_subb_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/max_of_subb_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/max_rep_char.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/max_rep_char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/min_char_to_make_pel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/min_char_to_make_pel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/missing_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/missing_numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/reverse_every_word.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/reverse_every_word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/reverse_word.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/reverse_word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/sort_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/sort_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MS_Practice/sum_of_diag.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MS_Practice/sum_of_diag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UBS/UBS_count_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UBS/UBS_count_numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UBS/ubs_cir_dist.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UBS/ubs_cir_dist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UBS/ubs_int_dimond__stars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UBS/ubs_int_dimond__stars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/UBS/ubs_non_rep.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/UBS/ubs_non_rep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Vuclip/vuclip.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Vuclip/vuclip.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,25 +150,26 @@
       <recent name="Veritas" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.secondLArgest">
+  <component name="RunManager" selected="Application.ubs_cir_dist">
     <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Amazon.Median" />
       <module name="Interview_Questions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Min_amount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Barclays.Min_amount" />
+      <module name="Interview_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Barclays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,13 +203,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ubs_cir_dist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UBS.ubs_cir_dist" />
+      <module name="Interview_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UBS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Min_amount" />
+      <item itemvalue="Application.ubs_cir_dist" />
       <item itemvalue="Application.Median" />
       <item itemvalue="Application.first_rep_char" />
       <item itemvalue="Application.secondLArgest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ubs_cir_dist" />
+        <item itemvalue="Application.Min_amount" />
         <item itemvalue="Application.secondLArgest" />
         <item itemvalue="Application.Median" />
         <item itemvalue="Application.first_rep_char" />
