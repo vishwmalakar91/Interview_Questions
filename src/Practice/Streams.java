@@ -1,9 +1,16 @@
 package Practice;
 
-import java.util.Collections;
-
+interface Drawable{
+    public void draw();
+}
 public class Streams {
     public static void main(String[] args) {
-        System.out.println("print test");
+        int width=10;
+
+        //without lambda, Drawable implementation using anonymous class  
+        Drawable d=new Drawable(){
+            public void draw(){System.out.println("Drawing "+width);}
+        };
+        d.draw();
     }
-}
+} 
